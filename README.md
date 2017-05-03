@@ -1,4 +1,4 @@
-# izicourses-app
+# izicourse
 
 **izicourses - Application android pour gérer sa liste de courses en temps réel**
 
